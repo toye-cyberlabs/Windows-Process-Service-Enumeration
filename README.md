@@ -1,9 +1,5 @@
 # Windows-Process-Service-Enumeration
- Windows Process &amp; Service Enumeration Investigation
-
-
-🛡️ Windows Process & Service Enumeration Investigation
-
+🛡️ Windows Process &amp; Service Enumeration Investigation
 
 
 🎯 Objective
